@@ -1,6 +1,6 @@
-### ethJS-ci
-
-branding stuff
+<h3 style="font-weight:100"> ethJS-ci</h3>
+Branding stuff
+<hr>
 
 
 <center>
