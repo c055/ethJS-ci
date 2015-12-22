@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>github-icon/ethJS-git-logo-icon-cropped</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="4.51549941%" y1="80.4813474%" x2="130.481347%" y2="45.4845006%" id="linearGradient-1">
+            <stop stop-color="#21212B" stop-opacity="0.385218524" offset="0%"></stop>
+            <stop stop-color="#3C3C3F" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="3" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.72693038   0 0 0 0 0.745339453   0 0 0 0 0.75454402  0 0 0 0.215024909 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <radialGradient cx="84.9968468%" cy="125.965848%" fx="84.9968468%" fy="125.965848%" r="130.737042%" id="radialGradient-3">
+            <stop stop-color="#21212B" offset="0%"></stop>
+            <stop stop-color="#3C3C3F" offset="100%"></stop>
+        </radialGradient>
+        <path id="path-4" d="M300.568697,255.365126 L295.720847,263.459376 L159.638552,337.757069 C156.439273,339.503799 153.875103,337.967843 153.911461,334.312132 L157.088539,14.8623891 C157.124833,11.2130726 159.698729,9.76556307 162.828281,11.623815 L298.550809,92.2125347 L303.123008,100.476884 L300.568697,255.365126 Z"></path>
+        <linearGradient x1="50%" y1="0%" x2="84.9968468%" y2="125.965848%" id="linearGradient-5">
+            <stop stop-color="#F9A03E" offset="0%"></stop>
+            <stop stop-color="#B25D00" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="3" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.72693038   0 0 0 0 0.745339453   0 0 0 0 0.75454402  0 0 0 0.119103827 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="3" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.72693038   0 0 0 0 0.745339453   0 0 0 0 0.75454402  0 0 0 0.119103827 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="github-icon/ethJS-git-logo-icon-cropped" sketch:type="MSArtboardGroup">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(45.000000, 25.000000)">
+                <g>
+                    <g id="Polygon-5-+-ethereum_icon-+-Rectangle-11-+-J-+-S-+-Oval-1-+-J-+-S">
+                        <g id="Polygon-5-+-ethereum_icon-+-Rectangle-11-+-J-+-S">
+                            <g>
+                                <path d="M0.727849387,256.073045 C0.326459851,255.351404 0.012704727,254.102093 0.0273634708,253.265175 L2.86260542,91.3914949 C2.87712727,90.5623929 3.23729268,89.3124385 3.6609952,88.6096981 L7.42663922,82.3641134 C7.85305587,81.6568714 8.78183713,80.7614285 9.51645366,80.3556209 L151.603363,1.86574889 C152.331119,1.46373103 153.59742,1.1495962 154.419957,1.16390439 L161.730233,1.29106799 C162.558039,1.30546783 163.800576,1.65933521 164.520534,2.09044547 L303.772201,85.474254 C304.485435,85.9013382 305.391571,86.8371577 305.790405,87.5542063 L309.335037,93.9269546 C309.736427,94.6485964 310.050182,95.8979067 310.035523,96.7348246 L307.200281,258.608505 C307.185759,259.437607 306.825594,260.687562 306.401892,261.390302 L302.636247,267.635887 C302.209831,268.343129 301.28105,269.238571 300.546433,269.644379 L158.459524,348.134251 C157.731768,348.536269 156.465467,348.850404 155.64293,348.836096 L148.332654,348.708932 C147.504847,348.694532 146.262311,348.340665 145.542353,347.909555 L6.29068611,264.525746 C5.57745197,264.098662 4.67131611,263.162842 4.2724814,262.445794 L0.727849387,256.073045 Z" id="Polygon-5" stroke="url(#linearGradient-1)" stroke-width="4.69576781" fill="#EBF0F1" filter="url(#filter-2)" sketch:type="MSShapeGroup"></path>
+                                <g id="Rectangle-11-+-J-+-S" transform="translate(112.183557, 174.222222)"></g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Polygon-5">
+                        <use fill="url(#radialGradient-3)" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                        <use fill="none" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="ethereum_icon" transform="translate(36.393617, 95.754717)" sketch:type="MSShapeGroup">
+                        <g id="Group">
+                            <path d="M48.4079059,0 L0.00788402377,80.21475 L48.4079059,58.235625 L48.4079059,0 Z" id="Shape" fill="#5A5C5E"></path>
+                            <path d="M48.4079059,58.235625 L0.00788402377,80.21475 L48.4079059,108.78525 L48.4079059,58.235625 Z" id="Shape" fill="#2D2F2E"></path>
+                            <path d="M96.8079278,80.21475 L48.4079059,0 L48.4079059,58.235625 L96.8079278,80.21475 Z" id="Shape" fill="#232424"></path>
+                            <path d="M48.4079059,108.78525 L96.8079278,80.21475 L48.4079059,58.235625 L48.4079059,108.78525 Z" id="Shape" fill="#111111"></path>
+                            <path d="M0.00788402377,89.373375 L48.4079059,157.5 L48.4079059,117.943875 L0.00788402377,89.373375 Z" id="Shape" fill="#737779"></path>
+                            <path d="M48.4000219,117.943875 L48.4000219,157.5 L96.8236959,89.373375 L48.4000219,117.943875 Z" id="Shape" fill="#282B2B"></path>
+                        </g>
+                    </g>
+                    <g id="Oval-1-+-J-+-S" transform="translate(183.470501, 146.204146)" fill="url(#linearGradient-5)" sketch:type="MSShapeGroup">
+                        <g id="J-+-S" transform="translate(0.909962, 1.026242)">
+                            <path d="M25.629842,2.1221511 L34.3624758,2.1221511 L34.3624758,39.3100299 C34.3624758,44.1965775 32.8052316,48.0650364 29.6906964,50.9155225 C26.5761612,53.7660086 22.5752414,55.1912303 17.687817,55.1912303 C12.4410231,55.1912303 8.28437883,53.8857752 5.21775956,51.2748257 C2.1511403,48.6638762 0.677747674,44.843324 0.797537489,39.8130544 L0.869411019,39.5974725 L9.31455075,39.5974725 C9.31455075,42.5677269 10.0512471,44.7474777 11.5246618,46.1367903 C12.9980765,47.5261028 15.052441,48.2207487 17.687817,48.2207487 C19.9877814,48.2207487 21.8864215,47.418313 23.3837942,45.8134174 C24.8811669,44.2085219 25.629842,42.0407477 25.629842,39.3100299 L25.629842,2.1221511 Z" id="J" filter="url(#filter-6)"></path>
+                            <path d="M74.3529956,40.9987548 C74.3529956,38.8189713 73.5444264,37.0344501 71.9272639,35.6451375 C70.3101014,34.2558249 67.4531572,33.0102531 63.3563455,31.9083845 C57.5106026,30.3753499 53.0125625,28.3453073 49.8620903,25.8181956 C46.7116182,23.291084 45.1364058,19.9795395 45.1364058,15.8834628 C45.1364058,11.6676178 46.8793214,8.19438844 50.3652051,5.46367065 C53.8510887,2.73295285 58.3491288,1.36761443 63.8594602,1.36761443 C69.6093714,1.36761443 74.2271995,2.91260264 77.7130831,6.00262541 C81.1989667,9.09264818 82.8819883,12.8054105 82.7621985,17.1410239 L82.690325,17.3566058 L74.3170588,17.3566058 C74.3170588,14.6737953 73.4066699,12.5000329 71.5858647,10.8352531 C69.7650595,9.17047343 67.1656595,8.33809606 63.7875867,8.33809606 C60.6011776,8.33809606 58.1515127,9.03274192 56.4385183,10.4220545 C54.725524,11.8113671 53.8690396,13.607865 53.8690396,15.8116021 C53.8690396,17.7997563 54.7973968,19.4525344 56.6541389,20.769986 C58.510881,22.0874376 61.5834437,23.3330094 65.8719191,24.506739 C71.5020404,26.0158199 75.7784726,28.0997575 78.7013441,30.7586143 C81.6242156,33.4174711 83.0856294,36.8068638 83.0856294,40.9268942 C83.0856294,45.2864612 81.3427138,48.7537022 77.8568301,51.3287212 C74.3709465,53.9037402 69.7890548,55.1912303 64.1110176,55.1912303 C58.648602,55.1912303 53.8570813,53.7480437 49.7363117,50.861627 C45.615542,47.9752104 43.6150821,44.0169267 43.7348719,38.9866571 L43.8067455,38.7710751 L52.2159484,38.7710751 C52.2159484,41.9569126 53.3179982,44.3342782 55.5221308,45.9032432 C57.7262634,47.4722083 60.589197,48.256679 64.1110176,48.256679 C67.3453426,48.256679 69.860891,47.6039514 71.6577382,46.2984767 C73.4545854,44.993002 74.3529956,43.2264457 74.3529956,40.9987548 L74.3529956,40.9987548 Z" id="S" filter="url(#filter-7)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
